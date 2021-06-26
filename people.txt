@@ -1,0 +1,4 @@
+3,Jan,Kowalski,30
+2,Adam,Nowak,28
+8,Joanna,Wiatr,35
+9,Katarzyna,Malinowska,55

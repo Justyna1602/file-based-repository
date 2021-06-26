@@ -1,0 +1,2 @@
+15,290,BMW, czarny,
+10,190,Volvo,zielony,
