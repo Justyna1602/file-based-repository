@@ -1,6 +1,6 @@
-package pl.sdacademy.repository;
+package pl.sdacademy.abstractrepository;
 
-public class Person {
+public class Person implements Entity {
     private Integer id; // ktora osoba jest ktora osobą
     private String firstName;
     private String lastname;
@@ -14,8 +14,7 @@ public class Person {
         this.lastname = lastname;
         this.age = age;
     }
-    //5. Dodaj do typu Person konstruktor nieprzyjmujący id jako parametr (niech przydzielaniem id zajmie się obiekt typu PersonRepository).
-// Zmień typ pola id na Integer - niezapisana osoba będzie miała wartość null przypisaną do tego pola.
+
     public Person(String firstName, String lastname, int age) {
         this.firstName = firstName;
         this.lastname = lastname;

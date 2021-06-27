@@ -1,2 +1,3 @@
-15,290,BMW, czarny,
-10,190,Volvo,zielony,
+15,290,BMW, czarny
+10,190,Volvo,zielony
+16,13,afsf,fsaf
